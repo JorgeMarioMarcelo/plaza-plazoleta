@@ -1,7 +1,7 @@
 package com.example.plazoleta.infrastructure.adapter.in.web;
 
-import com.example.plazoleta.domain.usecase.dto.request.RestaurantRequest;
-import com.example.plazoleta.domain.usecase.handler.IRestaurantHandler;
+import com.example.plazoleta.aplication.dto.request.RestaurantRequest;
+import com.example.plazoleta.aplication.handler.IRestaurantHandler;
 import io.swagger.v3.oas.annotations.Operation;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

@@ -1,8 +1,8 @@
-package com.example.plazoleta.domain.usecase.handler.impl;
+package com.example.plazoleta.aplication.handler.impl;
 
-import com.example.plazoleta.domain.usecase.dto.request.RestaurantRequest;
-import com.example.plazoleta.domain.usecase.handler.IRestaurantHandler;
-import com.example.plazoleta.domain.usecase.mapper.IRestaurantRequestMapper;
+import com.example.plazoleta.aplication.dto.request.RestaurantRequest;
+import com.example.plazoleta.aplication.handler.IRestaurantHandler;
+import com.example.plazoleta.aplication.mapper.IRestaurantRequestMapper;
 import com.example.plazoleta.domain.api.IRestaurantServicePort;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

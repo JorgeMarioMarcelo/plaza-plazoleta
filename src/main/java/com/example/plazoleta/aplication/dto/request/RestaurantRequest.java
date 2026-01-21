@@ -1,4 +1,4 @@
-package com.example.plazoleta.domain.usecase.dto.request;
+package com.example.plazoleta.aplication.dto.request;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.NotBlank;

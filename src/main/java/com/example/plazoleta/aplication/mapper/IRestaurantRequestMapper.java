@@ -1,6 +1,6 @@
-package com.example.plazoleta.domain.usecase.mapper;
+package com.example.plazoleta.aplication.mapper;
 
-import com.example.plazoleta.domain.usecase.dto.request.RestaurantRequest;
+import com.example.plazoleta.aplication.dto.request.RestaurantRequest;
 import com.example.plazoleta.domain.model.Restaurant;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
